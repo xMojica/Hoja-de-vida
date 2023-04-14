@@ -6,3 +6,4 @@ para desarrollar esta hoja e vida se implemento un templates, funcionalidades ba
 - se aplicaron conocimientos adquidiros en https://platzi.com
 - se crea repositoprio con github 
 # Hoja-de-vida
+# Hoja-de-vida
