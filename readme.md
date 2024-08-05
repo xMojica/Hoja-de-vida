@@ -1,8 +1,8 @@
-# Hoja de vida
+# Portafolio
 ## Santiago Mojica Jiménez
 
-para desarrollar esta hoja de vida se implemento un templates, funcionalidades basicas de boostrap en html, css y github.
-- se aplicaron conocimientos adquidiros en https://platzi.com
-- se crea repositoprio con github 
+El desarrollo de este portafolio se hizo utilizando Html, Css con Bootstrap, y se implementó el responsive design, luego se publico en github y se desplego en un servidor de Netlify.
+- Se aplicaron conocimientos adquidiros en Platzi.
+  
 
 
